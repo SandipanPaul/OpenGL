@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/OpenGL/Dependencies/GLEW/doc
+/OpenGL/Dependencies/GLEW/LICENSE.txt
+/OpenGL/Dependencies/GLEW/Makefile.txt
